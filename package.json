@@ -16,7 +16,7 @@
   "author": "neilkalman@gmail.com",
   "license": "BSD-2-Clause",
   "engines": {
-    "node": "7.7.3",
+    "node": "10",
     "npm": "5.6.0"
   },
   "dependencies": {
