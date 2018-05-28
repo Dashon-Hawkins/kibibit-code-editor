@@ -42,7 +42,7 @@
     "eslint-plugin-lodash": "^2.1.0",
     "gulp": "^3.9.1",
     "gulp-angular-injector": "^1.0.0",
-    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-angular-templatecache": "^2.2.1",
     "gulp-assets": "^0.2.2",
     "gulp-buddy.js": "^1.0.0",
     "gulp-cached": "^1.1.0",
